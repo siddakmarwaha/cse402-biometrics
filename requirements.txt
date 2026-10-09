@@ -1,0 +1,14 @@
+albumentations
+facenet-pytorch
+jupyter
+matplotlib
+numpy
+pandas
+Pillow
+scikit-image
+scikit-learn
+scipy
+seaborn
+torch
+torchvision
+tqdm
